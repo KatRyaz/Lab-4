@@ -1,4 +1,4 @@
-from py import Shop, Mail, House1, House2, Restaurant, Police, Club
+from classes import Shop, Mail, House1, House2, Restaurant, Police, Club
 
 shop = Shop(14)
 mail = Mail(23)
